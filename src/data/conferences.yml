@@ -690,3 +690,20 @@
   tags:
     - machine-learning
     - data-mining
+
+- title: RecSys
+  year: 2025
+  id: recsys2025
+  full_name: ACM Conference on Recommender Systems
+  link: https://ecmlpkdd.org/2025/
+  deadline: '2025-04-01 23:59:59'
+  abstract_deadline: '2025-04-08 23:59:59'
+  timezone: UTC-12
+  place: Prague, Czech Republic
+  date: September 22-26, 2025
+  start: 2025-09-22
+  end: 2025-09-26
+  rankings: 'CCF: B, CORE: A'
+  tags:
+    - recommender-systems
+    - data-mining
